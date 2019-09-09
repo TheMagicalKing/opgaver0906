@@ -17,10 +17,11 @@ class MyClass {
         System.out.println("3    9       27     87");
         System.out.println("4    16      64     256");
         //1.5
-        System.out.println((7.5*6.5-4.5*3)/(47.5-5.5));
-
-        var sum = 1+2+3+4+5+6+7+8+9+10;
+        var sum = (7.5*6.5-4.5*3)/(47.5-5.5);
         System.out.println(sum);
+
+        var sum1 = 1+2+3+4+5+6+7+8+9+10;
+        System.out.println(sum1);
 
         var sum2 = 24/1.6;
         System.out.println(sum2);
