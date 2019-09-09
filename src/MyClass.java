@@ -24,6 +24,7 @@ class MyClass {
         System.out.println(sum1);
 
         var sum2 = 24/1.6;
+        int sum3 = 12;
         System.out.println(sum2);
 
     }
